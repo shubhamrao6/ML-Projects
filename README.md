@@ -3,12 +3,14 @@ Repository containing many classical Machine Learning Projects (Housing, Titanic
 These are the projects that are being told in almost all the online Machine Learning courses.
 
 ## 1) Housing Price predictions
-This project uses Linear Regression to fit in the data that has features such as **#rooms, #bedrooms** etc and tries to predict based on those features what should be the price of the house.    
+This project uses Linear Regression to fit in the data that has features such as **#rooms, #bedrooms** etc and tries to predict based on those features what should be the price of the house.                                          
+
 ![](/Screenshot_1.jpg)
 
 
 ## 2) Titanic Dataset
 Every machine learning beginner must know the famous titanic dataset. It contains the details about the passengers onboaord the ship **Titanic** and usually we predict whether the given person survived or not.                                          
-If a Logistic Regression classifier is used, it will predict with an accuracy of almost **81%**.
+If a Logistic Regression classifier is used, it will predict with an accuracy of almost **81%**.           
 
+![](/Screenshot_2.jpg)
 
