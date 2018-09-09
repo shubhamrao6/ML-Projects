@@ -19,5 +19,9 @@ Also a very popular dataset in which the machine learning model has to predict w
 A Suppot Vector Machine with the help of a Grid Search can predict with an accuracy of **95%**.                                                  
 
 ![](/Screenshot_3.jpg)
+                       
+## 4) Iris Dataset
+Probably the most famous of all datasets is the iris dataset. In this dataset, features about 3 species of the iris flower is given.         
+If a Support Vector Machine model is used to classify this dataset. Almost **all the flowers are classified accurately**.               
 
-
+![](/Screenshot_4.jpg)
